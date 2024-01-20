@@ -7,7 +7,7 @@ Welcome to the Band Name Generator project! This Python script is a fun and simp
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/bandname-generator.git
+    git clone https://github.com/avi-1227/bandname-generator.git
     ```
 
 2. Navigate to the project directory:
@@ -47,4 +47,4 @@ If you have ideas for improving this Band Name Generator or want to add new feat
 
 
 
-## Happy band name generating!
+#### Happy band name generating!
